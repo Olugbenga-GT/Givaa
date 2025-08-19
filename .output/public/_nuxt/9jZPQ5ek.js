@@ -1,0 +1,1 @@
+import{_ as s,c as t,o,p as c}from"./CFFFtgNh.js";const a={},n={class:"py-16 px-6 md:px-24 lg:px-32"};function r(e,_){return o(),t("main",n,[c(e.$slots,"default")])}const p=s(a,[["render",r]]);export{p as default};
