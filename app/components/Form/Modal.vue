@@ -33,7 +33,6 @@
             @click="close"
             class="absolute top-4 right-4 z-10 p-2 text-gray-400 hover:text-gray-600 transition-colors duration-200"
           >
-            <!-- <Icon name="heroicons:x-mark" class="w-6 h-6" /> -->
             &times;
           </button>
 

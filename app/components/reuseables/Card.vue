@@ -4,7 +4,7 @@
       class="relative rounded-2xl h-[12rem] w-[20rem] bg-gray-200 overflow-hidden"
     >
       <p
-        class="absolute top-4 right-4 h-10 w-10 rounded-full bg-blue-600 text-white flex items-center justify-center z-10 font-bold shadow-lg"
+        class="absolute top-4 right-4 h-10 w-10 rounded-full bg-gray-600 text-white flex items-center justify-center z-10 font-bold shadow-lg"
       >
         {{ cardId }}
       </p>
